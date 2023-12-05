@@ -1,0 +1,10 @@
+__pycache__/
+old/
+shorts/
+*.txt
+!response.txt
+!requirements.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
